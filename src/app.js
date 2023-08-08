@@ -1,7 +1,7 @@
 import express from "express"; // Para este medio de importación, colocar en package.json luego de una , "type": "module"
 import ProductManager from "../src/productManagerServer.js"
 
-// Nodemon: Start del server vía nodemon app.js (checkear terminal). 
+// Nodemon: Start del server vía nodemon app.js (checkear terminal que esté parada en la carpeta src). 
 //En diferencia al entregable 2, en este caso los productos fueron creados previamente, por lo que saldrá en el console.log que ya fueron creados.
 const app = express();
 app.use(express.urlencoded({ extended: true })) //Para uso correcto de Queries en express
