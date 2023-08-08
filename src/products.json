@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "Paquete Tren De las nubes",
+        "description": "Viví un fin de semana inolvidable en Salta, disfrutando todo lo que ofrece la provincia Y culminalo con un hermoso viaje en el legendario tren de las nubes.",
+        "price": 195,
+        "thumbnail": "../assets/img/paquetesalta1920x1080.jpg",
+        "stock": 500,
+        "code": "AA"
+    },
+    {
+        "id": 2,
+        "title": "Paquete Tucuman",
+        "description": "Viví un hermoso fin de semana en Tucuman, la cuna de la independecia, conociendo la Casita De Tucuman, La Catedral Tucumana, Tafí Del Valle y mucho mas.",
+        "price": 160,
+        "thumbnail": "../assets/img/tucuman1920x1080.jpg",
+        "stock": 500,
+        "code": "AB"
+    },
+    {
+        "id": 3,
+        "title": "Paquete Formosa",
+        "description": "Pasá un inolvidable fin de semana en la tierra Formoseña, con excursionas al Bañado La Estrella, el Parque Rio Pilcomayo y mucho mas.",
+        "price": 170,
+        "thumbnail": "../assets/img/formosa1920x1080.jpg",
+        "stock": 500,
+        "code": "AC"
+    },
+    {
+        "id": 4,
+        "title": "Paquete La Rioja y San Juan",
+        "description": "Pasá un inolvidable fin de semana en La Rioja y San Juan, con excursiones a Talampaya, el Valle De La Luna, la Ruta Del Cielo y mucho mas.        ",
+        "price": 175,
+        "thumbnail": "../assets/img/larioja1920x1080.jpg",
+        "stock": 500,
+        "code": "AD"
+    },
+    {
+        "id": 5,
+        "title": "Paquete Rio Negro",
+        "description": "Viví una semana inolvidable Rio Negro, descubriendo todo lo que tiene para ofrecer una de las joyas de la Patagonia.",
+        "price": 400,
+        "thumbnail": "../assets/img/rionegro1920x1080.jpg",
+        "stock": 500,
+        "code": "AE"
+    },
+    {
+        "id": 6,
+        "title": "Paquete Neuquen",
+        "description": "Viví un hermoso fin de semana en Neuquen, conociendo el Lago Hermoso, el Volcán Domuyo y mucho mas.",
+        "price": 260,
+        "thumbnail": "../assets/img/neuquen1920x1080.jpg",
+        "stock": 500,
+        "code": "AF"
+    },
+    {
+        "id": 7,
+        "title": "Paquete Santa Cruz",
+        "description": "Pasá un inolvidable fin de semana en Santa Cruz, viviendo a pleno El Calafate, El Chaltén, Río Gallegos y mucho mas.",
+        "price": 275,
+        "thumbnail": "../assets/img/santacruz1920x1080.jpg",
+        "stock": 500,
+        "code": "AG"
+    },
+    {
+        "id": 8,
+        "title": "Paquete Tierra Del Fuego",
+        "description": "Pasá un inolvidable fin de semana en Tierra del Fuego, conociendo el Parque Nacional, el Glaciar Martial y mucho mas.",
+        "price": 290,
+        "thumbnail": "../assets/img/tierradelfuego1920x1080.jpg",
+        "stock": 500,
+        "code": "AH"
+    },
+    {
+        "id": 9,
+        "title": "Superoferta Paquete Norte Argentino",
+        "description": "Descubrí todo lo que las provincias del norte argentino tiene para ofrecerte a un price inmejorable con esta oferta.",
+        "price": 250,
+        "thumbnail": "../assets/img/tierradelfuego1920x1080.jpg",
+        "stock": 500,
+        "code": "AI"
+    },
+    {
+        "id": 10,
+        "title": "Superoferta Paquete Sur Argentino",
+        "description": "Descubrí todo lo que las provincias del sur argentino tiene para ofrecerte a un price inmejorable con esta oferta.",
+        "price": 335,
+        "thumbnail": "../assets/img/tierradelfuego1920x1080.jpg",
+        "stock": 500,
+        "code": "AJ"
+    }
+]
